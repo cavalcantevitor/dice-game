@@ -18,7 +18,7 @@ The game is very simple. There are two players, each one will have their chance 
 
 ## Where can I play the game?
 
-You can play the game here: [https://cavalcantevitor.github.io/dice-game/](https://vitoralves2c.github.io/dice-game/)
+You can play the game here: [https://cavalcantevitor.github.io/dice-game/](https://cavalcantevitor.github.io/dice-game/)
 
 ## Screenshots
 
